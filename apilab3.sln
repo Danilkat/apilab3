@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apilab3server", "apilab3server\apilab3server.csproj", "{4186C586-6FAE-4258-AE5F-9D154609F702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apilab3client", "apilab3client\apilab3client.csproj", "{8D67DD88-0B9A-476F-885B-0A15DC53A20D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4186C586-6FAE-4258-AE5F-9D154609F702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4186C586-6FAE-4258-AE5F-9D154609F702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4186C586-6FAE-4258-AE5F-9D154609F702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4186C586-6FAE-4258-AE5F-9D154609F702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D67DD88-0B9A-476F-885B-0A15DC53A20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D67DD88-0B9A-476F-885B-0A15DC53A20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D67DD88-0B9A-476F-885B-0A15DC53A20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D67DD88-0B9A-476F-885B-0A15DC53A20D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B608F7B-B76E-4A19-826E-89652359B703}
+	EndGlobalSection
+EndGlobal
